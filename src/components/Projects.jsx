@@ -19,7 +19,7 @@ const Projects = () => {
           "Sequelize",
           "React",
           "Socket.io",
-          "TailwindCSS",
+          "Bootstrap",
         ]}
         images={IPFC_images}
         repo={"https://github.com/IPF-CONECTA/IPF-CONECTA"}
